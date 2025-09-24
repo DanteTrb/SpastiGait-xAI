@@ -87,10 +87,10 @@ Outputs appear automatically in the `outputs/` folder:
 ![SHAP to MER](docs/ShaptoMer.png)
 
 ### EMG ↔ Kinematics Directionality
-![EMG-Kinematics](docs/BDAC81A6-4C5A-4482-BDF5-9AE0AB0A0A94.png)
+![EMG-Kinematics](docs/KintoEMG.png)
 
 ### Proximal vs Distal Directionality
-![Proximal-Distal](docs/7ABAF72A-CAB2-47F4-8F30-171B67A36CBF.png)
+![Proximal-Distal](docs/ProximaltoDistal.png)
 
 ### SPM Nonparametric Plots
 ![Physiological Evidence](docs/Physiological Evidence.png)
