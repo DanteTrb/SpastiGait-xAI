@@ -24,7 +24,7 @@ We developed a fully explainable deep learning pipeline to map muscle×phase det
 ---
 ## Pipeline Overview
 
-![Pipeline Overview](docs/90239DD4-7362-4CE1-9EE8-4231B6398406.png)
+![Cohort & Data Acquisition](docs/Cohort.png)
 
 ---
 ##  Quick Start
@@ -81,10 +81,10 @@ Outputs appear automatically in the `outputs/` folder:
 ## 🖼 Deep Learning Architecture & Outputs
 
 ### Network Diagram
-![Deep Learning Architecture](docs/75149C9D-9F83-40B4-A326-56A9B6E95051.png)
+![Explainable Deep Learning Architecture](docs/xDLarchitecture.png)
 
 ### MER Barplots per Phase
-![MER Barplots](docs/BBFA28DF-E97C-4990-91EC-DCBA061F0A77.png)
+![SHAP to MER](docs/ShaptoMer.png)
 
 ### EMG ↔ Kinematics Directionality
 ![EMG-Kinematics](docs/BDAC81A6-4C5A-4482-BDF5-9AE0AB0A0A94.png)
@@ -93,7 +93,7 @@ Outputs appear automatically in the `outputs/` folder:
 ![Proximal-Distal](docs/7ABAF72A-CAB2-47F4-8F30-171B67A36CBF.png)
 
 ### SPM Nonparametric Plots
-![SPM Plots](docs/7E7D0796-551D-4FB5-A73D-B640F292397C.png)
+![Physiological Evidence](docs/Physiological Evidence.png)
 
 ---
 
