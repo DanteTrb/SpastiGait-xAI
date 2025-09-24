@@ -1,4 +1,4 @@
-# From EMG to Insight — Explainable Deep Learning on Stiff-Knee Gait in HSP
+# From EMG to Insight — xAI on Stiff-Knee Gait in HSP
 
 > **Clean envelopes ➜ whole-cycle nonparametric SPM ➜ tv-VAR IRFs (EMG↔KIN) ➜ Proximal vs Distal EMG directionality**  
 > High accuracy + full interpretability: from black-box AI to muscle–phase therapeutic maps.
