@@ -3,6 +3,11 @@
 > **Clean envelopes ➜ whole-cycle nonparametric SPM ➜ tv-VAR IRFs (EMG↔KIN) ➜ Proximal vs Distal EMG directionality**  
 > High accuracy + full interpretability: from black-box AI to muscle–phase therapeutic maps.
 
+
+# **📄 Paper Submission:**  
+This repository supports the upcoming manuscript **“From EMG to Insight: Explainable Deep Learning Identifies Muscle Drivers of Stiff-Knee Gait in Hereditary Spastic Paraparesis”**, which will be submitted shortly to a peer-reviewed journal.
+
+
 ---
 ##  Background
 
